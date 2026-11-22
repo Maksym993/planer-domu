@@ -1,0 +1,10 @@
+node_modules
+dist
+# Twoja działka i pobrane podkłady zostają tylko na Twoim komputerze
+src/dane/dzialka.json
+src/dane/dzialka.json.tmp
+public/mapy/
+# Projekty zapisane przez serwer deweloperski
+zapis/
+.DS_Store
+public/willa/auta/ferrari.glb

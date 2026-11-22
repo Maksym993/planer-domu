@@ -1,0 +1,51 @@
+{
+  "przyklad": true,
+  "nazwa": "Działka przykładowa",
+  "identyfikator": "",
+  "numer": "przykład",
+  "obreb": "",
+  "gmina": "",
+  "powiat": "",
+  "wojewodztwo": "",
+  "powEwidencyjna": null,
+  "teren": "MN",
+  "szerokoscGeo": 52.23,
+  "dlugoscGeo": 21.01,
+  "uklad": "lokalny",
+  "wierzcholki": [
+    [0, 0],
+    [22, 1.5],
+    [22.6, 120.2944],
+    [0, 123.02]
+  ],
+  "krawedzie": [
+    { "nazwa": "sąsiad od południa", "typ": "sasiad", "liniaZabudowy": null },
+    { "nazwa": "sąsiad od wschodu", "typ": "sasiad", "liniaZabudowy": null },
+    { "nazwa": "droga gminna", "typ": "droga", "liniaZabudowy": 5, "szerokosc": 6.5 },
+    { "nazwa": "droga dojazdowa", "typ": "droga", "liniaZabudowy": 5, "szerokosc": 10 }
+  ],
+  "polnoc": [0.5, 0.866],
+  "pasDrogi": null,
+  "minBezOtworow": 3,
+  "podklad": null,
+  "plan": {
+    "maxZabudowy": 30,
+    "minBioCzynna": 40,
+    "minIntensywnosc": 0.05,
+    "maxIntensywnosc": 0.6,
+    "maxWysokosc": 10,
+    "maxKatDachu": 45,
+    "maxKondygnacji": 2,
+    "dachSpadzisty": true,
+    "opis": [
+      "Teren MN: zabudowa mieszkaniowa jednorodzinna.",
+      "Nieprzekraczalna linia zabudowy 5 m od obu dróg.",
+      "Powierzchnia zabudowy do 30% działki.",
+      "Powierzchnia biologicznie czynna co najmniej 40% działki.",
+      "Intensywność zabudowy od 0,05 do 0,6.",
+      "Budynek mieszkalny do 10 m i dwóch kondygnacji nadziemnych.",
+      "Dach dwu- lub wielospadowy, połacie do 45°."
+    ],
+    "zrodlo": "Działka i plan są przykładowe. Swoje ustalenia znajdziesz w uchwale planu miejscowego gminy albo w decyzji o warunkach zabudowy."
+  }
+}
