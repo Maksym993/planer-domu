@@ -124,6 +124,12 @@ Dom według Twojego programu:
 Zaprojektuj w planerze dom na mojej działce (src/dane/dzialka.json). Program: [tu wpisz: ile pięter, jakie pokoje i ile metrów, garaż, taras, styl dachu]. Dodaj go jako nowy szablon w menu Projekt, obok „Trzy stodoły”, i sprawdź wskaźniki z planu oraz odległości od sąsiadów. Pokaż mi rzut i widok 3D, zanim zaczniesz dopracowywać wnętrza.
 ```
 
+Dom ze zdjęcia, które Ci się podoba (dołącz zdjęcie domu albo wnętrza):
+
+```text
+Dołączam zdjęcie domu, który mi się podoba. Zaprojektuj podobny dom na mojej działce z src/dane/dzialka.json: [co ma się znaleźć w domu, np. 4 sypialnie, garaż, taras]. Dodaj go jako nowy szablon w menu Projekt planera i zrób dla niego wizualizację jak w src/willa, z wnętrzami w stylu ze zdjęcia. Najpierw pokaż mi rzut i wskaźniki z planu, potem dopracowuj wnętrza.
+```
+
 Ustalenia planu miejscowego ze zdjęcia albo PDF:
 
 ```text
